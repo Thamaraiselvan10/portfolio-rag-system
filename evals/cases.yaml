@@ -1,0 +1,21 @@
+- question: "Which stock has highest investment value?"
+  expected:
+    stock: "TCS"
+    value: 152000
+
+- question: "Which stock has lowest investment value?"
+  expected:
+    stock: "ZOMATO"
+    value: 9000
+
+- question: "Which stock has highest value?"
+  expected:
+    stock: "TCS"
+
+- question: "Which stock is performing worst?"
+  expected:
+    stock: "ZOMATO"
+
+- question: "Which stock has maximum value in my portfolio?"
+  expected:
+    stock: "TCS"
