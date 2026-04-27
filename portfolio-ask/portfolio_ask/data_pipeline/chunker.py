@@ -1,0 +1,25 @@
+def chunk_text(text, chunk_size=200):
+    words = text.split()
+    chunks = []
+
+    for i in range(0, len(words), chunk_size):
+        chunk = " ".join(words[i:i + chunk_size])
+        chunks.append(chunk)
+
+    return chunks
+
+
+def chunk_documents(documents):
+    chunked_docs = []
+
+    for doc in documents:
+        chunks = chunk_text(doc["text"])
+
+        for chunk in chunks:
+            chunked_docs.append({
+                "text": chunk,
+                "source": doc["source"],
+                "type": doc["type"]
+            })
+
+    return chunked_docs

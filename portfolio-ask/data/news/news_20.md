@@ -1,0 +1,1 @@
+Tesla announced a 20% increase in vehicle deliveries globally. The EV market is expanding rapidly in North America and Europe.

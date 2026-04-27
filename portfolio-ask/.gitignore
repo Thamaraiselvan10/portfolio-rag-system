@@ -1,0 +1,54 @@
+# 🔐 Environment & Secrets
+
+.env
+.env.*
+!.env.example
+
+# 🐍 Virtual Environments
+
+.venv/
+venv/
+env/
+
+# 🧠 Python Cache / Bytecode
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 📦 Build / Packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# 🧪 Test / Coverage
+
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# 🧾 Logs
+
+*.log
+
+# 🧰 IDE / Editor
+
+.vscode/
+.idea/
+
+# 🖥️ OS Files
+
+.DS_Store
+Thumbs.db
+
+# 📊 Local DB / Vector Stores
+
+*.db
+*.sqlite
+*.sqlite3
+faiss_index/
+chroma/

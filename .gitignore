@@ -1,0 +1,22 @@
+# 🔐 Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# 🐍 Virtual Environments
+venv/
+.venv/
+env/
+
+# 🧠 Python Cache / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🧰 IDE / Editor
+.vscode/
+.idea/
+
+# 🖥️ OS Files
+.DS_Store
+Thumbs.db

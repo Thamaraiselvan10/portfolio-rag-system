@@ -1,0 +1,18 @@
+[
+{"ticker": "TCS", "sector": "IT", "quantity": 40, "avg_cost": 3200, "current_price": 3800, "currency": "INR"},
+{"ticker": "INFY", "sector": "IT", "quantity": 60, "avg_cost": 1400, "current_price": 1550, "currency": "INR"},
+{"ticker": "HDFCBANK", "sector": "Banking", "quantity": 50, "avg_cost": 1500, "current_price": 1450, "currency": "INR"},
+{"ticker": "ICICIBANK", "sector": "Banking", "quantity": 45, "avg_cost": 900, "current_price": 1050, "currency": "INR"},
+{"ticker": "RELIANCE", "sector": "Energy", "quantity": 30, "avg_cost": 2500, "current_price": 2800, "currency": "INR"},
+{"ticker": "LT", "sector": "Infrastructure", "quantity": 20, "avg_cost": 2200, "current_price": 3100, "currency": "INR"},
+{"ticker": "SUNPHARMA", "sector": "Pharma", "quantity": 35, "avg_cost": 900, "current_price": 1100, "currency": "INR"},
+{"ticker": "TATAMOTORS", "sector": "Automobile", "quantity": 80, "avg_cost": 600, "current_price": 850, "currency": "INR"},
+{"ticker": "HINDUNILVR", "sector": "FMCG", "quantity": 25, "avg_cost": 2400, "current_price": 2600, "currency": "INR"},
+{"ticker": "BAJFINANCE", "sector": "Finance", "quantity": 15, "avg_cost": 6500, "current_price": 7200, "currency": "INR"},
+{"ticker": "NIFTYBEES", "sector": "ETF", "quantity": 100, "avg_cost": 200, "current_price": 230, "currency": "INR"},
+{"ticker": "AXISBLUECHIP", "sector": "Mutual Fund", "quantity": 200, "avg_cost": 45, "current_price": 52, "currency": "INR"},
+{"ticker": "SBI_BOND", "sector": "Bond", "quantity": 10, "avg_cost": 10000, "current_price": 10200, "currency": "INR"},
+{"ticker": "ZOMATO", "sector": "Consumer Tech", "quantity": 120, "avg_cost": 90, "current_price": 75, "currency": "INR"},
+{"ticker": "ADANIENT", "sector": "Conglomerate", "quantity": 10, "avg_cost": 2200, "current_price": 3000, "currency": "INR"}
+]
+
