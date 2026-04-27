@@ -1,0 +1,19 @@
+# Core
+pydantic>=2.0
+requests
+PyYAML
+# Embeddings / NLP
+sentence-transformers
+transformers
+torch
+
+# Vector store
+faiss-cpu
+
+# Data processing
+numpy
+scikit-learn
+
+# Utilities
+tqdm
+python-dotenv

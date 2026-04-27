@@ -1,0 +1,20 @@
+- question: "Which stock has highest investment value?"
+  expected:
+    stock: "TCS"
+    value: 152000
+
+- question: "What is my total IT exposure?"
+  expected:
+    total: 245000
+
+- question: "Is my portfolio well diversified?"
+  expected:
+    sectors_present: true
+
+- question: "List news affecting my portfolio"
+  expected:
+    news_relevant: true
+
+- question: "Which stock is underperforming?"
+  expected:
+    stock_present: true
