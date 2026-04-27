@@ -1,9 +1,7 @@
 import re
 
 def extract_numbers(text):
-    """
-    Extract all numbers from text
-    """
+    text = text.replace(",", "")  # normalize numbers
     return re.findall(r'\d+', text)
 
 
